@@ -1,7 +1,7 @@
-# parcelamento
+# Parcelamento commands
 
-//Install
+#Install
 mvc clean install
 
-//Start Service
+#Start Service
 mvn spring-boot:run
